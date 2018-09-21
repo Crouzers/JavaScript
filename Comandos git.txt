@@ -1,0 +1,7 @@
+git status -- muestra el estado del repo
+
+git add . --añade todos los cambios al commit
+
+git commit -m "mensaje" -crea una version de los cambios
+
+git push origin master -f -- lo sube a github.com
