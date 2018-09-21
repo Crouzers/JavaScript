@@ -1,2 +1,3 @@
-# JavaScript
-me cogí a tu novia
+# CursoIngresoJS
+Curso de ingreso con JavaScript
+dsasadsadsadasdsad
